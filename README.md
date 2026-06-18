@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=B.Tech+Artificial+Intelligence;Full+Stack+Software+Engineer;System+Design+%26+Backend+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=B.Tech+in+AI+%26+Data+Science;IIT+Patna+Undergraduate;Building+Backend+%26+AI+Systems" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -16,9 +16,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://sidharth-shangonda.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://linkedin.com/in/sidharth-shangonda-63145336a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -42,11 +39,12 @@
 
 ## 🔮 About Me
 
-I am an **Artificial Intelligence undergraduate at IIT Patna** with a deep passion for building high-performance full-stack applications, robust backend systems, and real-time telemetry architectures. I merge theoretical machine learning concepts with hands-on software engineering.
+I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artificial Intelligence and Data Science. I spend my time building backend systems, core data structures, databases, and developing AI-integrated applications.
 
-*   🚀 **Backend Architect:** Experienced in designing trace ingestion pipelines, event-driven task workers (BullMQ/Redis), and secure API designs.
-*   🧠 **AI/ML Enthusiast:** Specializing in semantic memory indexing using vector databases (pgvector), hybrid retrieval models, and telemetry diagnostics.
-*   🌐 **Full Stack Developer:** Proficient in creating fluid web user interfaces utilizing React combined with scalable Node.js/Express/NestJS backends.
+*   🎓 **Education:** Pursuing a Bachelor of Technology (B.Tech) in Artificial Intelligence at the Indian Institute of Technology Patna.
+*   🚀 **Backend Systems:** Designing efficient API services, relational models, database scaling, and telemetry architectures.
+*   🧠 **AI & DB Systems:** Exploring vector retrieval pipelines (pgvector), trace ingestion mechanisms, and semantic search utilities.
+*   📊 **Problem Solver:** Deepening my knowledge of core computer science fundamentals and algorithms, with 150+ solved tasks on LeetCode.
 
 ---
 
@@ -82,13 +80,13 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** with a deep passi
 
 ---
 
-## 🧠 AI / ML Expertise
+## 🧠 AI & Systems Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Semantic Search & Vector DBs** | Advanced | Engineered pgvector integration with OpenAI embeddings, implementing hybrid ranking with importance and recency scores. |
-| **LLM Observability** | Intermediate | Built trace ingestion APIs and anomaly detection systems for hallucination risks, tool failures, and cost/latency spikes. |
-| **Applied ML & NLP** | Intermediate | Practical implementation of core ML algorithms, data structures, and text processing using Scikit-Learn and NLTK. |
+| **Semantic Search & Vector DBs** | Intermediate | Engineered pgvector integration with OpenAI embeddings, implementing hybrid ranking with importance and recency scores. |
+| **LLM Observability** | Basic | Built trace ingestion APIs and anomaly detection systems for hallucination risks, tool failures, and cost/latency spikes. |
+| **Core AI & Data Structures** | Basic | Implementation of AI search logic, database schemas, and structured file state trees. |
 
 ---
 
@@ -159,14 +157,14 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** with a deep passi
 
 ## 💼 Experience
 
-### **Independent Software Engineer** | Open Source & Academic Projects (IIT Patna)
+### **Independent Developer** | Academic & Open Source Projects (IIT Patna)
 *2024 — Present*
-> Building high-performance developer tooling, distributed trace ingestion pipelines, and secure multi-tenant backends.
+> Developing data-driven systems, custom command-line utilities, and database applications.
 
 *   Designed queue-driven telemetry ingestion frameworks processing high-frequency log events asynchronously.
 *   Enforced multi-tenant isolation rules using PostgreSQL Row-Level Security (RLS) policies and HMAC verification gates.
 *   Developed filesystem command-line utilities using Node.js, managing snapshots and remote object storage (AWS S3) synchronization.
-*   Strengthened computer science fundamentals by solving 100+ algorithmic tasks and mentoring team members on database designs.
+*   Strengthened computer science fundamentals by solving 150+ algorithmic tasks and mentoring team members on database designs.
 
 `TypeScript` `Node.js` `PostgreSQL` `Redis` `Prisma` `Docker` `System Design`
 
@@ -178,9 +176,9 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** with a deep passi
 
 | Recognition | Details |
 | :---: | :--- |
+| 💼 **Deloitte Data Analytics** | Completed the Data Analytics Job Simulation via Forage, tackling tasks in data analysis and forensic technology (June 2026). |
+| 🧩 **LeetCode Solver** | Completed 150+ data structure and algorithm challenges with optimal space/time complexity. |
 | 🌟 **HackerRank Certificate** | Earned the Problem Solving (Intermediate) Certificate, demonstrating algorithmic proficiency. |
-| 🧩 **LeetCode Solver** | Completed 100+ data structure and algorithm challenges with optimal space/time complexity. |
-| 🤝 **Celesta Tech Fest Volunteer** | Orchestrated operations and supported tech fest event execution at IIT Patna. |
 
 </div>
 
@@ -245,10 +243,10 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** with a deep passi
 ## 🎯 Current Focus
 
 ```yaml
-learning: "Deep Learning, Advanced Telemetry Pipelines, System Design"
+learning: "Advanced Telemetry Pipelines, System Design, AI Systems Architecture"
 building: "Scalable backend architectures and AI agent memory grids"
-exploring: "RAG optimization models and distributed queue workers (Redis/BullMQ)"
-open_to: "Full-Stack Software Engineering & AI/ML Developer Internships"
+exploring: "AI Agent memory networks and distributed queue workers (Redis/BullMQ)"
+open_to: "Backend & AI Engineering Internships"
 ```
 
 ---
@@ -264,9 +262,6 @@ open_to: "Full-Stack Software Engineering & AI/ML Developer Internships"
   </a>
   <a href="https://github.com/sidharth-shangonda" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-sidharth--shangonda-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://sidharth-shangonda.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
