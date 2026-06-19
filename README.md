@@ -39,7 +39,7 @@
 
 ## 🔮 About Me
 
-I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artificial Intelligence and Data Science. I spend my time building backend systems, core data structures, databases, and developing AI-integrated applications.
+I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artificial Intelligence and Data Science. I spend my time exploring machine learning pipelines, core data structures, algorithms, databases, and building data-driven systems.
 
 *   🎓 **Education:** Pursuing a Bachelor of Technology (B.Tech) in Artificial Intelligence at the Indian Institute of Technology Patna.
 *   🚀 **Backend Systems:** Designing efficient API services, relational models, database scaling, and telemetry architectures.
@@ -203,7 +203,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharth-shangonda&show_icons=true&title_color=a855f7&icon_color=6366f1&text_color=c084fc&bg_color=0d1117&border_color=a855f7" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidharth-shangonda&show_icons=true&title_color=a855f7&icon_color=6366f1&text_color=c084fc&bg_color=0d1117&border_color=a855f7&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -211,7 +211,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-shangonda&layout=compact&title_color=a855f7&icon_color=6366f1&text_color=c084fc&bg_color=0d1117&border_color=a855f7" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-shangonda&layout=compact&title_color=a855f7&icon_color=6366f1&text_color=c084fc&bg_color=0d1117&border_color=a855f7&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -246,7 +246,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 learning: "Advanced Telemetry Pipelines, System Design, AI Systems Architecture"
 building: "Scalable backend architectures and AI agent memory grids"
 exploring: "AI Agent memory networks and distributed queue workers (Redis/BullMQ)"
-open_to: "Backend & AI Engineering Internships"
+open_to: "AI/ML & Data Science Internships"
 ```
 
 ---
