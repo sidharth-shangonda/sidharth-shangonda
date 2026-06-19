@@ -203,15 +203,15 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharth-shangonda&show_icons=true&title_color=a855f7&icon_color=6366f1&text_color=c084fc&bg_color=0d1117&border_color=a855f7&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidharth-shangonda&show_icons=true&title_color=a855f7&icon_color=6366f1&text_color=c084fc&bg_color=0d1117&border_color=a855f7&cache_seconds=1800&v=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&currStreakNum=a855f7&sideNums=6366f1&sideLabels=c084fc&dates=ffffff&ring=a855f7&fire=6366f1&bg=0d1117&stroke=a855f7" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&currStreakNum=a855f7&sideNums=6366f1&sideLabels=c084fc&dates=ffffff&ring=a855f7&fire=6366f1&bg=0d1117&stroke=a855f7&v=2" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-shangonda&layout=compact&title_color=a855f7&icon_color=6366f1&text_color=c084fc&bg_color=0d1117&border_color=a855f7&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-shangonda&layout=compact&title_color=a855f7&icon_color=6366f1&text_color=c084fc&bg_color=0d1117&border_color=a855f7&cache_seconds=1800&v=2" alt="Top Languages" />
 </p>
 
 ---
@@ -219,7 +219,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidharth-shangonda&theme=dracula&no-background=true&no-border=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sidharth-shangonda&theme=dracula&no-background=true&no-border=true&margin-w=15&margin-h=15&v=2" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -227,7 +227,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharth-shangonda&theme=react-dark&bg_color=0d1117&color=a855f7&line=6366f1&point=c084fc" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharth-shangonda&theme=react-dark&bg_color=0d1117&color=a855f7&line=6366f1&point=c084fc&v=2" alt="Activity Graph" />
 </p>
 
 ---
