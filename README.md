@@ -204,20 +204,12 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidharth-shangonda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidharth-shangonda&show_icons=true&title_color=a855f7&icon_color=6366f1&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800&v=2" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&currStreakNum=a855f7&sideNums=6366f1&sideLabels=c084fc&dates=ffffff&ring=a855f7&fire=6366f1&bg=0d1117&stroke=0d1117&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidharth-shangonda&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidharth-shangonda&theme=dracula&no-background=true&no-border=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidharth-shangonda&show_icons=true&layout=compact&title_color=a855f7&icon_color=6366f1&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800&v=2" />
 </p>
 
 ---
@@ -225,7 +217,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharth-shangonda&theme=react-dark&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharth-shangonda&bg_color=0d1117&color=a855f7&line=6366f1&point=c084fc&area=true&hide_border=true&v=2" width="95%"/>
 </p>
 
 ---
