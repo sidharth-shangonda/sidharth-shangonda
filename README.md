@@ -39,7 +39,7 @@
 
 ## 🔮 About Me
 
-I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artificial Intelligence and Data Science. I spend my time exploring machine learning pipelines, core data structures, algorithms, databases, and building data-driven systems.
+I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artificial Intelligence and Data Science. I spend my time building backend systems, core data structures, databases, and developing AI-integrated applications.
 
 *   🎓 **Education:** Pursuing a Bachelor of Technology (B.Tech) in Artificial Intelligence at the Indian Institute of Technology Patna.
 *   🚀 **Backend Systems:** Designing efficient API services, relational models, database scaling, and telemetry architectures.
@@ -164,6 +164,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 *   Designed queue-driven telemetry ingestion frameworks processing high-frequency log events asynchronously.
 *   Enforced multi-tenant isolation rules using PostgreSQL Row-Level Security (RLS) policies and HMAC verification gates.
 *   Developed filesystem command-line utilities using Node.js, managing snapshots and remote object storage (AWS S3) synchronization.
+*   Authored and pushed 60+ commits across repositories, maintaining rigorous version control practices.
 *   Strengthened computer science fundamentals by solving 150+ algorithmic tasks and mentoring team members on database designs.
 
 `TypeScript` `Node.js` `PostgreSQL` `Redis` `Prisma` `Docker` `System Design`
@@ -203,15 +204,12 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharth-shangonda&show_icons=true&title_color=a855f7&icon_color=6366f1&text_color=c084fc&bg_color=0d1117&border_color=a855f7&cache_seconds=1800&v=2" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidharth-shangonda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&currStreakNum=a855f7&sideNums=6366f1&sideLabels=c084fc&dates=ffffff&ring=a855f7&fire=6366f1&bg=0d1117&stroke=a855f7&v=2" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth-shangonda&layout=compact&title_color=a855f7&icon_color=6366f1&text_color=c084fc&bg_color=0d1117&border_color=a855f7&cache_seconds=1800&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidharth-shangonda&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -219,7 +217,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidharth-shangonda&theme=dracula&no-background=true&no-border=true&margin-w=15&margin-h=15&v=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sidharth-shangonda&theme=dracula&no-background=true&no-border=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -227,15 +225,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharth-shangonda&theme=react-dark&bg_color=0d1117&color=a855f7&line=6366f1&point=c084fc&v=2" alt="Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sidharth-shangonda/sidharth-shangonda/output/github-contribution-grid-snake.svg" alt="Snake Game Grid" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharth-shangonda&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 
 ---
