@@ -105,7 +105,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
   | **Performance** | Optimized ingestion pipelines to minimize runtime agent latency overhead |
   | **Security** | Multi-tenant isolation enforced via PostgreSQL Row-Level Security (RLS) and HMAC-signed webhooks |
   | **Impact** | Actionable insight dashboards tracking token usage, hallucination risk, and cost metrics |
-  | **Repository** | [GitHub Repository](https://github.com/sidharth-shangonda/ai-observability-platform) |
+  | **Repository** | [GitHub Repository](https://github.com/sidharth-shangonda/AI-Agent-Observability-Platform) |
 
   ### Professional Breakdown
   Designed and implemented a distributed trace ingestion service capturing detailed execution steps of LLM tools. Leveraging Redis queues and BullMQ workers, the platform safely decouples logging from agent runtime performance. It incorporates vector search (pgvector) for semantic memory querying and provides comprehensive observability using Prometheus scraping and Grafana dashboards.
@@ -126,7 +126,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
   | **Performance** | Quick snapshot diffing and staging storage utilizing UUID-based directories |
   | **Security** | Robust JWT auth and bcrypt hashing across client-web and CLI integrations |
   | **Impact** | Deep architectural understanding of file state trees, delta tracking, and remote sync |
-  | **Repository** | [GitHub Repository](https://github.com/sidharth-shangonda/custom-vcs) |
+  | **Repository** | [GitHub Repository](https://github.com/sidharth-shangonda/Custom-Version-Control-system-) |
 
   ### Professional Breakdown
   Engineered a custom CLI in Node.js mimicking core git operations (init, add, commit, push, pull). Designed the web service using React and Primer design system elements to sync commit history. Standardized authentication protocols across CLI commands and web APIs, utilizing AWS S3 as the remote object store for repository snapshot assets.
@@ -147,7 +147,7 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
   | **Performance** | Optimized query lookup utilizing MySQL connection pooling (limit 10 concurrent pools) |
   | **Security** | Session-based authentication safeguards and parameterized query shielding against SQL Injection |
   | **Impact** | Unified admin and member dashboard reducing book issue/return tracking times |
-  | **Repository** | [GitHub Repository](https://github.com/sidharth-shangonda/library-management-system) |
+  | **Repository** | [GitHub Repository](https://github.com/sidharth-shangonda/Smart-Library-Management) |
 
   ### Professional Breakdown
   Created an end-to-end library administration backend exposing routes for registration, user profile querying, book search with pagination limits, and active issue tracking. Leveraged relational MySQL databases hosted with connection pool configurations, and integrated EJS views to construct a dynamic, responsive client dashboard.
