@@ -203,12 +203,12 @@ I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artif
 ## 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidharth-shangonda&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidharth-shangonda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidharth-shangonda&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sidharth-shangonda&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
