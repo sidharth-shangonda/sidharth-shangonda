@@ -39,7 +39,7 @@
 
 ## 🔮 About Me
 
-I am an **Artificial Intelligence undergraduate at IIT Patna** focusing on Artificial Intelligence and Data Science. I spend my time exploring machine learning pipelines, core data structures, algorithms, databases, and building data-driven systems.
+I am an **Artificial Intelligence $ data science undergraduate at IIT Patna** focusing on Artificial Intelligence and Data Science. I spend my time exploring machine learning pipelines, core data structures, algorithms, databases, and building data-driven systems.
 
 *   🎓 **Education:** Pursuing a Bachelor of Technology (B.Tech) in Artificial Intelligence at the Indian Institute of Technology Patna.
 *   🧠 **AI & ML Focus:** Actively exploring vector indexing (pgvector), hybrid semantic search retrieval, and neural network pipelines.
