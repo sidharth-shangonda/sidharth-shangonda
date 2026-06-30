@@ -200,15 +200,10 @@ I am an **Artificial Intelligence & Data Science undergraduate at IIT Patna** fo
 
 ---
 
-## 📈 GitHub Stats & Streak
+## 📈 GitHub Streak
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=sidharth-shangonda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=sidharth-shangonda&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
