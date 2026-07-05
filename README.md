@@ -203,7 +203,7 @@ I am an **Artificial Intelligence & Data Science undergraduate at IIT Patna** fo
 ## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharth-shangonda&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak Stats" />
 </p>
 
 ---
