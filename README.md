@@ -211,7 +211,7 @@ I am an **Artificial Intelligence & Data Science undergraduate at IIT Patna** fo
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharth-shangonda&theme=react-dark&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidharth-shangonda&theme=react-dark&hide_border=true&v=1" width="95%"/>
 </p>
 
 ---
