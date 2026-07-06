@@ -222,7 +222,7 @@ I am an **Artificial Intelligence & Data Science undergraduate at IIT Patna** fo
 learning: "Advanced Telemetry Pipelines, System Design, AI Systems Architecture"
 building: "Scalable backend architectures and AI agent memory grids"
 exploring: "AI Agent memory networks and distributed queue workers (Redis/BullMQ)"
-open_to: "AI/ML & Data Science Internships"
+open_to: "Software Engineering, Backend Development, AI/ML, and Generative AI Internships"
 ```
 
 ---
