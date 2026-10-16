@@ -43,7 +43,7 @@ I am an **Artificial Intelligence & Data Science undergraduate at IIT Patna** fo
 
 *   🎓 **Education:** Pursuing a Bachelor of Technology (B.Tech) in Artificial Intelligence at the Indian Institute of Technology Patna.
 *   🧠 **AI & ML Focus:** Actively exploring vector indexing (pgvector), hybrid semantic search retrieval, and neural network pipelines.
-*   📊 **Problem Solver:** Deepening my knowledge of core computer science fundamentals and algorithms, with 150+ solved tasks on LeetCode.
+*   📊 **Problem Solver:** Deepening my knowledge of core computer science fundamentals and algorithms, with 400+ solved tasks on LeetCode.
 
 ---
 
@@ -177,7 +177,7 @@ I am an **Artificial Intelligence & Data Science undergraduate at IIT Patna** fo
 | Recognition | Details |
 | :---: | :--- |
 | 💼 **Deloitte Data Analytics** | Completed the Data Analytics Job Simulation via Forage, tackling tasks in data analysis and forensic technology (June 2026). |
-| 🧩 **LeetCode Solver** | Completed 150+ data structure and algorithm challenges with optimal space/time complexity. |
+| 🧩 **LeetCode Solver** | Completed 300+ data structure and algorithm challenges with optimal space/time complexity. |
 | 🌟 **HackerRank Certificate** | Earned the Problem Solving (Intermediate) Certificate, demonstrating algorithmic proficiency. |
 
 </div>
